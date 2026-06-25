@@ -15,6 +15,8 @@ Jogo da memória clássico com cartas que viram em 3D, contador de jogadas, cron
   <a href="https://samuelf27.github.io/memory-game/"><b>🔗 Jogar agora</b></a>
 </p>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Samuelf27/memory-game/main/preview.png" alt="Preview do projeto" width="760" /></p>
+
 ---
 
 ## 📌 Sobre o projeto
